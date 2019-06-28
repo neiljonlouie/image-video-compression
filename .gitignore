@@ -1,2 +1,7 @@
+logs/
+weights/
+
 *.code-workspace
 .vscode
+
+*__pycache__
